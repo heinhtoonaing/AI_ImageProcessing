@@ -1,0 +1,6 @@
+opencv-python
+numpy
+torch  # If using YOLO or other PyTorch models
+mediapipe
+pandas
+requests
