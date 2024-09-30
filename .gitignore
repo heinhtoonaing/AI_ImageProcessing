@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore any other files or folders you don't want to track
+*.pyd
+*.dll
+*.lib
