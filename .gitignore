@@ -8,3 +8,15 @@ __pycache__/
 *.pyd
 *.dll
 *.lib
+venv/
+*.pyd
+*.dll
+*.lib
+*.h5
+*.mp4
+*.caffemodel
+*.pt
+*.onnx
+# Ignore application files
+src/app.py
+web_app/
