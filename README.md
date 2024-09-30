@@ -10,8 +10,6 @@ This project utilizes deep learning techniques for object detection in images an
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
