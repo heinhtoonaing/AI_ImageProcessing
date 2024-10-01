@@ -7,3 +7,4 @@ venv/Lib/site-packages/torch/lib/dnnl.lib filter=lfs diff=lfs merge=lfs -text
 *.dll filter=lfs diff=lfs merge=lfs -text
 *.lib filter=lfs diff=lfs merge=lfs -text
 images/
+venv/Lib/site-packages/cv2/opencv_videoio_ffmpeg4100_64.dll filter=lfs diff=lfs merge=lfs -text
