@@ -3,20 +3,21 @@ venv/
 
 # Ignore Python cache files
 __pycache__/
+*.py[cod]
 
-# Ignore any other files or folders you don't want to track
+# Ignore compiled files
 *.pyd
 *.dll
 *.lib
-venv/
-*.pyd
-*.dll
-*.lib
+
+# Ignore model and large files
 *.h5
 *.mp4
 *.caffemodel
 *.pt
 *.onnx
-# Ignore application files
+
+# Ignore application-specific files
 src/app.py
 web_app/
+images/
