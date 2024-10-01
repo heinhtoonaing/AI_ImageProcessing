@@ -18,6 +18,5 @@ __pycache__/
 *.onnx
 
 # Ignore application-specific files
-src/app.py
-web_app/
+
 images/
